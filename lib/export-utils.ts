@@ -78,4 +78,3 @@ export function downloadAsFile(data: string, filename: string, mimeType: string)
 export function formatDateForFilename(date: Date): string {
   return date.toISOString().split("T")[0]
 }
-

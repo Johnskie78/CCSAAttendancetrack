@@ -707,4 +707,3 @@ export default function TimeRecords() {
     </div>
   )
 }
-

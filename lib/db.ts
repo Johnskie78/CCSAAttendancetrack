@@ -805,4 +805,3 @@ export async function updateTimeRecordsWithSchool(): Promise<number> {
     }
   })
 }
-

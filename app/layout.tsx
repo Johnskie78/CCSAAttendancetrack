@@ -22,7 +22,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Student Time Tracking System",
   description: "Track student check-in and check-out times with QR codes",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
@@ -40,4 +40,3 @@ export default function RootLayout({
     </html>
   )
 }
-

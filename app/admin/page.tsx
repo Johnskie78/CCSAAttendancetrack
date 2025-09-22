@@ -611,4 +611,3 @@ function AdminManagement() {
     </main>
   )
 }
-

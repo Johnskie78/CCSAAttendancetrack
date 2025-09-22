@@ -200,4 +200,3 @@ export default function QRCodeGenerator({ value, size = 200, label }: QRCodeGene
     </Card>
   )
 }
-

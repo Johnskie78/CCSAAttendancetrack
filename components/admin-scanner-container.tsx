@@ -24,4 +24,3 @@ export default function AdminScannerContainer() {
 
   return mounted ? <QRScanner /> : null
 }
-

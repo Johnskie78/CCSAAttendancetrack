@@ -52,4 +52,3 @@ export default function ProtectedRoute({ children, adminOnly = true }: Protected
 
   return <>{children}</>
 }
-

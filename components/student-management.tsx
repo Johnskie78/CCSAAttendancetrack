@@ -1233,4 +1233,3 @@ export default function StudentManagement() {
     )
   }
 }
-

@@ -484,4 +484,3 @@ export default function BatchOperations() {
     </div>
   )
 }
-
